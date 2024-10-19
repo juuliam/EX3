@@ -12,7 +12,7 @@ h1, h2 {
 }
 
 .nav-link {
-    color: white !important;
+    color: black !important;
 }
 
 /* Lisää aktiivisen ja fokusoidun tilan värit, jotta ne näkyvät */
