@@ -1,0 +1,26 @@
+/* Omat CSS-säännöt */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+.navbar {
+    background-color: #3498db;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+/* Lisää aktiivisen ja fokusoidun tilan värit, jotta ne näkyvät */
+.nav-link.active, .nav-link:focus {
+    color: #ffdf00 !important;
+}
+
+/* Varmistetaan, että collapse näkyy oikein */
+.navbar-collapse {
+    background-color: #3498db;
+}
